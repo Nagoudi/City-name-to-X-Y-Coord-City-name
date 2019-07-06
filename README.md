@@ -1,7 +1,7 @@
 ﻿# Add cities to their id
 
 ## Introduction  
- The completed work is designed to handle the files and added next to each **city name** in the **files processed** by its id provided that they are listed in the** coordinates file**
+This work is designed to parse the Arabic texts files and add to each **city name** in the **files processed** by its id provided that they are listed in the **coordinates file**
 
 ### The problems we encountered
 * Nature of Arabic Language
